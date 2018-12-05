@@ -1,0 +1,21 @@
+INSERT INTO shelter_allocation VALUES (TO_DATE('24-Dec-2018', 'dd-MON-yyyy'), 'v0001', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('27-Dec-2018', 'dd-MON-yyyy'), 'v0002', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('27-Dec-2018', 'dd-MON-yyyy'), 'v0003', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('29-Dec-2018', 'dd-MON-yyyy'), 'v0004', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('29-Dec-2018', 'dd-MON-yyyy'), 'v0005', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'v0006', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'v0007', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'v0008', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'v0009', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0010', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0011', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0012', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0013', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0014', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0015', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0016', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0017', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0018', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0019', '1', '1');
+INSERT INTO shelter_allocation VALUES (TO_DATE('30-Dec-2018', 'dd-MON-yyyy'), 'V0020', '1', '1');
+

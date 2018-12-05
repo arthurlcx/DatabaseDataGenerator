@@ -1,0 +1,13 @@
+INSERT INTO food_supply VALUES ('FS0389', 'Daily Supplies', 'Toiletry', TO_DATE('27-Nov-2018', 'dd-MON-yyyy'), '600', '600', '554.00', 'NULL', 'NULL');
+INSERT INTO food_supply VALUES ('FS0390', 'Daily Supplies', 'Shampoo', TO_DATE('29-Nov-2018', 'dd-MON-yyyy'), '500', '500', '842.00', 'NULL', 'NULL');
+INSERT INTO food_supply VALUES ('FS0391', 'Daily Supplies', 'Lotion', TO_DATE('01-Dec-2018', 'dd-MON-yyyy'), '800', '800', 'NULL', 'NULL', 'D0127');
+INSERT INTO food_supply VALUES ('FS0392', 'Daily Supplies', 'Detergent', TO_DATE('04-Dec-2018', 'dd-MON-yyyy'), '900', '900', '314.00', 'NULL', 'NULL');
+INSERT INTO food_supply VALUES ('FS0393', 'Daily Supplies', 'Wet Tissue', TO_DATE('05-Dec-2018', 'dd-MON-yyyy'), '700', '700', 'NULL', 'NULL', 'D0080');
+INSERT INTO food_supply VALUES ('FS0394', 'Wearable', 'Towel', TO_DATE('05-Dec-2018', 'dd-MON-yyyy'), '800', '800', 'NULL', 'NULL', 'D0136');
+INSERT INTO food_supply VALUES ('FS0395', 'Daily Supplies', 'Soap', TO_DATE('05-Dec-2018', 'dd-MON-yyyy'), '500', '500', 'NULL', 'NULL', 'D0096');
+INSERT INTO food_supply VALUES ('FS0396', 'Medicine', 'Disinfectant', TO_DATE('05-Dec-2018', 'dd-MON-yyyy'), '900', '900', '395.00', TO_DATE('03-Nov-2018', 'dd-MON-yyyy'), 'NULL');
+INSERT INTO food_supply VALUES ('FS0397', 'Drink', 'Health Beverage', TO_DATE('05-Dec-2018', 'dd-MON-yyyy'), '800', '800', '131.00', TO_DATE('07-Aug-2024', 'dd-MON-yyyy'), 'NULL');
+INSERT INTO food_supply VALUES ('FS0398', 'Food', 'Biscuit', TO_DATE('05-Dec-2018', 'dd-MON-yyyy'), '1000', '1000', '658.00', TO_DATE('25-May-2018', 'dd-MON-yyyy'), 'NULL');
+INSERT INTO food_supply VALUES ('FS0399', 'Food', 'Snacks', TO_DATE('05-Dec-2018', 'dd-MON-yyyy'), '300', '300', '605.00', TO_DATE('09-Oct-2020', 'dd-MON-yyyy'), 'NULL');
+INSERT INTO food_supply VALUES ('FS0400', 'Daily Supplies', 'Shampoo', TO_DATE('05-Dec-2018', 'dd-MON-yyyy'), '900', '900', 'NULL', 'NULL', 'D0142');
+
